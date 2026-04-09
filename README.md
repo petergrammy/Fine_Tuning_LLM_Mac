@@ -84,3 +84,9 @@ env -u HTTP_PROXY -u HTTPS_PROXY -u ALL_PROXY -u http_proxy -u https_proxy -u al
 
 如果你使用 `microsoft/Phi-3-mini-4k-instruct`，**不要开启 `trust_remote_code`**，否则可能遇到 `KeyError: 'type'`（rope_scaling 字段不兼容）的问题。
 
+###几点提示
+
+1.本项目使用QWen作为base是最容易跑通的，但是效果并不理想，原因很简单：大陆的AI经过了非常傻逼的法律限制，基本没办法锐评任何东西，所以建议用Phi作为base去跑
+2.使用方法是将你自己的文本粘贴在text文件夹里的文件中，不过如果你只是想和一个说话像peter的llm聊天的话也可以不用替换文本喵
+3.learn bash
+4.除非你对自己的mac性能很自信，否则不要在mac上跑，很容易出现一个叫做7.12GiB空间限制的报错
