@@ -1,0 +1,46 @@
+### model
+# 用极小模型先跑通训练流程（避免下载大模型）
+model_name_or_path: llamafactory/tiny-random-Llama-3
+trust_remote_code: false
+
+### method
+stage: sft
+do_train: true
+finetuning_type: lora
+lora_rank: 8
+lora_target: all
+
+### dataset
+# 先生成个人数据集：
+#   python tools/prepare_personal_dataset.py --input_dir raw --output_dir personal_data --mode sft --dataset_name personal_sft
+dataset: personal_sft
+dataset_dir: ./personal_data
+template: llama3
+cutoff_len: 1024
+max_samples: 200
+preprocessing_num_workers: 2
+dataloader_num_workers: 0
+
+### output
+output_dir: ./outputs/sanity_lora_sft
+logging_steps: 1
+save_steps: 50
+plot_loss: true
+overwrite_output_dir: true
+save_only_model: true
+report_to: none
+
+### train
+per_device_train_batch_size: 1
+gradient_accumulation_steps: 4
+learning_rate: 2.0e-4
+max_steps: 5
+num_train_epochs: 1.0
+lr_scheduler_type: cosine
+warmup_ratio: 0.03
+fp16: false
+bf16: false
+
+### misc
+seed: 42
+

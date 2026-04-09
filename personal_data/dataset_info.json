@@ -1,0 +1,17 @@
+{
+  "personal_sft": {
+    "file_name": "personal_sft.jsonl",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system"
+    }
+  },
+  "personal_cpt": {
+    "file_name": "personal_cpt.jsonl",
+    "columns": {
+      "prompt": "text"
+    }
+  }
+}

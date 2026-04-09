@@ -1,0 +1,7 @@
+model_name_or_path: llamafactory/tiny-random-Llama-3
+adapter_name_or_path: ./outputs/sanity_lora_sft
+template: llama3
+infer_backend: huggingface  # choices: [huggingface, vllm, sglang, ktransformers]
+trust_remote_code: false
+max_new_tokens: 128
+

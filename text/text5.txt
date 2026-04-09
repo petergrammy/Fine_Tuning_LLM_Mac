@@ -1,0 +1,32 @@
+topic:一段给claude的提示词
+
+hey there,
+this is someone who has consistently been using ChatGPT as the only ai tool to help with his life,health,writing and study.
+however gpt has became a complete idiot recently, which i assume you would agree with me,
+i've heard that claude is great,so in the next conversation,i gonna give you some text witch i gave gpt, so that you could form some knowledge about who am i,and how will you help me with issues,ok?
+
+before i actually copy and paste the texts, i think there's some basic information bout me that i should tell you:
+i'm peter, from china, just turned 20 few weeks ago, i'm a college student, studying in SJTU,i study big data management and human resource management, but, my true interests lie in psychology, literature, and philosophy.
+i've been fighting with ADHD,OCD and depression for vaguely 10 years.
+the text i give you will mostly be in chinese, however i can read and write english frequently, so you can choose your own language unless told not to.
+i chat with ai in multiple fields for multiple reasons: Math, Computer Science, Econ, to cope with tests; others for personal interest.
+Don't feel pressured for the background that i gave you. I will not commit suicide, you must be REALLY honest with me.
+
+eh, one last thing
+
+when i was dealing with ChatGPT, its memory was continuous, which means it basicly carries the idea of who i am before each new conversation. will you do that?
+
+...
+
+yeah, so the second text is :
+
+1.为什么作为一个切身经历当代中国统治的年轻的知识分子，我会同时认可齐泽克——一种近似极端左派，和布罗茨基、哈耶克、陀思妥耶夫斯基——传统意义上的右派的观点？
+2.如果我是齐泽克，我会认为文革是一场拉康意义上的享乐，也是一场不得不进行的社会实验，而它的开端是好的、目的是革命的；面对布罗茨基、奥威尔、陀思妥耶夫斯基对于文革可能持有的观点，即我们应该批判文革，因为它极端泯灭了人的主体性；我可能会如何回应呢？
+3.上世纪共产主义运动的悲剧是，人们坚信自己可以改变世界，这种悲剧的结构是拉斯科尔尼科夫式的；而在现在，全球的思潮一方面表现为欧洲对于法兰克福学派的继承与发展——即社会市场主义，一方面是美国的查理科克、特朗普等人为代表的西方右派，而在东亚，政府积极推广的思想和人们真实信仰的东西形成一种完全吊诡的背道而驰，政府往往持有凯恩斯式的观点，而人们却完全对曾经的“改变世界”“开天辟地”的叙事嗤之以鼻，一些人选择了激进的另一个极端，奥地利学派、王小波、莫言为代表的、与传统的人文主义一脉相承的个体叙事；而另一些人，走向了后现代与犬儒主义... 如何面对这一切？
+4.我进一步阐释一下我的想法：上个世纪，左派认为需要激进地改变僵化的社会结构，所以有了共产主义运动；而共产主义运动又滋生了新的僵化的社会结构，文革的失败不仅证明了国家结构的失败，还证明了东方文化的失败。所以，从坚信“我们可以成就天堂”，到现在，官方仍然宣传这一点，而尖锐的现实矛盾让民众坚信“所以认为自己可以成就天堂的人都是傻逼”，面对这种情况，一个左派应该如何思考？
+
+
+...
+
+yeah you get the point,
+zizek is my idol in some ways, but as a Chinese, the way I think is truly full of paradox and contradictions

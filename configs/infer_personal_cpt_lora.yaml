@@ -1,0 +1,12 @@
+model_name_or_path: Qwen/Qwen2.5-0.5B-Instruct
+adapter_name_or_path: ./outputs/personal_lora_cpt
+
+# Qwen2.5 系列用的是 chatml 风格模板，这里用 LlamaFactory 里的 "qwen"
+template: qwen
+infer_backend: huggingface  # choices: [huggingface, vllm, sglang, ktransformers]
+trust_remote_code: true
+
+max_new_tokens: 256
+temperature: 0.8
+top_p: 0.9
+

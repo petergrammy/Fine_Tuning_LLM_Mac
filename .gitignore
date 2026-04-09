@@ -1,0 +1,30 @@
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# Virtual env
+.venv/
+venv/
+ENV/
+
+# Jupyter / IPython
+.ipynb_checkpoints/
+
+# Model / dataset caches (regenerable, can be huge)
+.hf/
+.mpl/
+llamaboard_cache/
+outputs/
+
+# Logs
+*.log
